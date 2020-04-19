@@ -1,0 +1,14 @@
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Connect_with_matlab.exe
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Connect_with_matlab.deps.json
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Connect_with_matlab.runtimeconfig.json
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Connect_with_matlab.runtimeconfig.dev.json
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Connect_with_matlab.dll
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Connect_with_matlab.pdb
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\bin\Debug\netcoreapp3.1\Interop.MLApp.dll
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Connect_with_matlab.csprojAssemblyReference.cache
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Interop.MLApp.dll
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Connect_with_matlab.csproj.ResolveComReference.cache
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Connect_with_matlab.AssemblyInfoInputs.cache
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Connect_with_matlab.AssemblyInfo.cs
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Connect_with_matlab.dll
+C:\Users\OliverKipkemei\source\repos\Connect_with_matlab\Connect_with_matlab\obj\Debug\netcoreapp3.1\Connect_with_matlab.pdb

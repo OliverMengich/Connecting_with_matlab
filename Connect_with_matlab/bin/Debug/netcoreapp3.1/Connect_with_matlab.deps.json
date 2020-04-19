@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Connect_with_matlab/1.0.0": {
+        "dependencies": {
+          "Interop.MLApp": "1.0.0.0"
+        },
+        "runtime": {
+          "Connect_with_matlab.dll": {}
+        }
+      },
+      "Interop.MLApp/1.0.0.0": {
+        "runtime": {
+          "Interop.MLApp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connect_with_matlab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.MLApp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
